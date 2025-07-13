@@ -33,14 +33,14 @@
 
 ---
 
-## 💰 Salary Analysis: Trends & Distribution
+## Salary Analysis: Trends & Distribution
 
-### 📈 Salary Overview
+### Salary Overview
 - **Average Salary**: `$151,164.94`
 - **Max Salary**: `$800,000`
 - **Min Salary**: `$15,000`
 
-### 📊 Yearly Salary Trend
+### Yearly Salary Trend
 - **2020**: ~$102K  
 - **2021**: ~$99K (sharp increase)
 - **2022**: ~$131K  
