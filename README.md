@@ -61,7 +61,7 @@
 
 ### Top 5 Jobs by Average Salary
 
-| Job Title                      | Avg. Salary |
+| Job Title                     | Avg. Salary |
 |-------------------------------|-------------|
 | Research Team Lead            | $450,000    |
 | Analytics Engineering Manager | $399,880    |
@@ -69,3 +69,7 @@
 | Applied AI/ML Lead            | $292,500    |
 | IT Enterprise Data Architect  | $284,090    |
 
+## **View the Project**  
+- [Power BI Report](Power_BI/Power_BI_Report.pbix)
+- [Excel Analysis](Bike_Buyers_Excel.xlsx)
+- [PostgreSQL Code](Bike_Buyers_SQL.sql)
