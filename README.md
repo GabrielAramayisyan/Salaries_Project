@@ -71,5 +71,4 @@
 
 ## **View the Project**  
 - [Power BI Report](Power_BI/Power_BI_Report.pbix)
-- [Excel Analysis](Bike_Buyers_Excel.xlsx)
-- [PostgreSQL Code](Bike_Buyers_SQL.sql)
+- [PostgreSQL Code](PostgreSQL/salaries_cleaned.sql)
