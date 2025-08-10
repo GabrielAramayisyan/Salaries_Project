@@ -1,74 +1,56 @@
-# Salaries Analysis
+# Data & AI Job Market Overview
 
-## Cleaned and organized more than 136,000 rows of raw data using PostgreSQL
-## Built interactive dashboards with Power BI
+## Project Overview
+This project analyzes **136,000+ rows** of global workforce and salary data for Data & AI-related roles.  
+The goal was to uncover patterns in hiring trends, experience levels, salaries, and work modes across **102 countries**.
+
+**Tools Used:** PostgreSQL, Power BI
+
+---
 
 ![Main Screenshot](Power_BI/Screenshots/main.png)
 ![Analysis Screenshot](https://github.com/GabrielAramayisyan/Salaries_Project/blob/main/Power_BI/Screenshots/analysis.png)
 
-## Data & AI Job Market Overview
+---
 
-### Workforce Insights
-- **Total Employees Analyzed**: **66,040**
-- **Global Representation**: Employees from **102 countries**
-- **Top Experience Level**:  
-  - **Senior-level**: 52.59%  
-  - **Mid-level**: 32.35%  
-  - **Junior**: 11.41%
+## Key Insights
 
-### Work Mode Distribution
-- **On-Site**: 75.08%  
-- **Fully Remote**: 24.44%  
-- **Hybrid**: 0.47%
+### Workforce Distribution
+- **Experience Level:** Senior (52.59%), Mid-level (32.35%), Junior (11.41%)
+- **Work Mode:** On-site (75.08%), Fully Remote (24.44%), Hybrid (0.47%)
+- **Company Size:** Majority work in mid-sized companies (51–500 employees)
 
-### Company Size Distribution
-- Most employees (> 64,000) work in **medium-sized companies (51–500 employees)**
+### Salary Analysis
+- **Average Salary:** $151,165  
+- **Max Salary:** $800,000  
+- **Min Salary:** $15,000
+- Yearly Trend: $102K (2020) → $152K (2024) → slight dip in 2025
+- By Employment Type:
+  - Full-Time: $151,796  
+  - Contract: $101,798  
+  - Part-Time: $80,393  
+  - Freelance: $50,652
+- By Work Mode:
+  - On-Site: $152,315  
+  - Remote: $149,007  
+  - Hybrid: $81,532
 
-### Top Job Titles by Count
-1. **Data Scientist**
-2. **Data Engineer**
-3. **Data Analyst**
-4. **Software Engineer**
-5. **Engineer**
+### Top 5 Highest Paying Roles
+1. Research Team Lead — $450,000  
+2. Analytics Engineering Manager — $399,880  
+3. Data Science Tech Lead — $375,000  
+4. Applied AI/ML Lead — $292,500  
+5. IT Enterprise Data Architect — $284,090  
 
 ---
 
-## Salary Analysis: Trends & Distribution
+## Business Recommendations
+- Companies should focus on **remote-friendly** policies for mid and senior-level talent to stay competitive.
+- Salary benchmarking can help **retain top roles** like Research Leads and Data Science Tech Leads.
+- Hybrid roles appear undervalued — an opportunity to restructure pay to attract talent.
 
-### Salary Overview
-- **Average Salary**: `$151,164.94`
-- **Max Salary**: `$800,000`
-- **Min Salary**: `$15,000`
+---
 
-### Yearly Salary Trend
-- **2020**: ~$102K  
-- **2021**: ~$99K (sharp increase)
-- **2022**: ~$131K  
-- **2023**: ~$150K  
-- **2024**: ~$152K  
-- **2025**: ~$151K (slight dip)
-
-### Salary by Employment Type
-- **Full-Time**: `$151,795.6`
-- **Contract**: `$101,797.84`
-- **Part-Time**: `$80,392.71`
-- **Freelance**: `$50,651.56`
-
-### Salary by Work Mode
-- **On-Site**: `$152,315.18`
-- **Full Remote**: `$149,007.11`
-- **Hybrid**: `$81,532.05`
-
-### Top 5 Jobs by Average Salary
-
-| Job Title                     | Avg. Salary |
-|-------------------------------|-------------|
-| Research Team Lead            | $450,000    |
-| Analytics Engineering Manager | $399,880    |
-| Data Science Tech Lead        | $375,000    |
-| Applied AI/ML Lead            | $292,500    |
-| IT Enterprise Data Architect  | $284,090    |
-
-## **View the Project**  
+## **Project Files**  
 - [Power BI Report](Power_BI/Power_BI_Report.pbix)
 - [PostgreSQL Code](PostgreSQL/salaries_cleaned.sql)
