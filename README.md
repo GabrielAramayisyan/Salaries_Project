@@ -52,4 +52,4 @@ The goal was to uncover patterns in hiring trends, experience levels, salaries, 
 
 ## **Project Files**  
 - [Power BI Dashboards](Power_BI/Power_BI_Report.pbix)
-- [PostgreSQL Code](PostgreSQL/salaries_cleaned.sql)
+- [PostgreSQL Code](PostgreSQL_Queries.sql)
