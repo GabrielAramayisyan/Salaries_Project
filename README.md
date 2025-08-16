@@ -46,11 +46,10 @@ The goal was to uncover patterns in hiring trends, experience levels, salaries, 
 
 ## Business Recommendations
 - Companies should focus on **remote-friendly** policies for mid and senior-level talent to stay competitive.
-- Salary benchmarking can help **retain top roles** like Research Leads and Data Science Tech Leads.
 - Hybrid roles appear undervalued — an opportunity to restructure pay to attract talent.
 
 ---
 
 ## **Project Files**  
-- [Power BI Report](Power_BI/Power_BI_Report.pbix)
+- [Power BI Dashboards](Power_BI/Power_BI_Report.pbix)
 - [PostgreSQL Code](PostgreSQL/salaries_cleaned.sql)
