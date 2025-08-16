@@ -1,4 +1,4 @@
-# Data & AI Job Market Overview
+# Salaries Analysis
 
 ## Project Overview
 This project analyzes **136,000+ rows** of global workforce and salary data for Data & AI-related roles.  
